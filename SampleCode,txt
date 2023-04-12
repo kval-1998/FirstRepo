@@ -2,8 +2,5 @@
 
 require_once "conf.php";
 
-$number="rnumber wp is 7817997836";
-
-echo $number;
 
 ?>
